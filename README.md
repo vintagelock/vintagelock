@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to enjoy life
 - 💞️ I’m looking to collaborate on stuff
 - 📫 You can reach me via the normal channels
+- 🎧 Listening to some heady shit!
 
 <!---
 vintagelock/vintagelock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
