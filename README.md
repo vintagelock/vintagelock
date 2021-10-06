@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning to enjoy life
 - 💞️ I’m looking to collaborate on stuff
 - 📫 You can reach me via the normal channels
-- 🎧 Listening to some heady shit!
+- 🎧 Listening to some heavy shit!
+- 🎮 Often to be found playing MMO's.  But, SWG is still the best
+- 🧠 Anxiety and OCD are daily chores
+- 🚗 Because it is red
+
 
 <!---
 vintagelock/vintagelock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
