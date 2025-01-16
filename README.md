@@ -1,11 +1,13 @@
-👋 Hi, I’m @vintagelock, but you can call me Ben Lewis.
-👀 I have a fascination with all things file systems and the Windows kernel, especially when cryptography gets involved.
-🌱 Right now, I’m learning to appreciate the little things in life.
-💞️ Always open to collaborating—let's build something cool!
-📫 Reach out through the usual channels; I’m just a message away.
-🎧 Currently jamming to some heavy tunes.
-🎮 Big fan of MMOs, though SWG will always hold a special place in my heart.
-🧠 Navigating the daily grind with anxiety and OCD—one step at a time.
+- 👋 Hi, I’m @vintagelock. Real name Ben Lewis
+- 👀 I’m interested in anything file-system or Windows kernel related.  With a heady slant towards cryptography.
+- 🌱 I’m currently learning to enjoy life
+- 💞️ I’m looking to collaborate on stuff
+- 📫 You can reach me via the normal channels
+- 🎧 Listening to some heavy shit!
+- 🎮 Often to be found playing MMO's.  But, SWG is still the best
+- 🧠 Anxiety and OCD are daily chores
+- 🚗 Because it is red
+
 
 <!---
 vintagelock/vintagelock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
